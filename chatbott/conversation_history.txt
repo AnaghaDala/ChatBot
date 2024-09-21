@@ -1,0 +1,18 @@
+user: what is your name?
+bot: I'm a chatbot and My name is AIsha :),May I know your name !
+user: what is your name?
+bot: I'm a chatbot and My name is AIsha :),May I know your name !
+user: what is your name?
+bot: I'm a chatbot and My name is AIsha :),May I know your name !
+user: hii
+bot: Hey there
+user: hii
+bot: Hey there
+user: hii
+bot: Hello
+user: hii
+bot: Hey there
+user: hii
+bot: Hello
+user: hii
+bot: Hello
